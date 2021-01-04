@@ -9,6 +9,10 @@
 
 本项目编译源码均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
+默认LAN IP:192.168.2.1
+
+默认用户名root，密码password
+
 ## 编译设备
 ASUS RT-ACRH17
 
@@ -17,10 +21,6 @@ G-Dock/P&W R619AC
 FriendlyARM Nanopi-R2S
 
 ARM64通用镜像
-
-默认LAN IP:192.168.2.1
-
-默认用户名root，密码password
 
 ### 包含插件列表
 固件主要满足基本的科学上网需求，暂不过多添加其他功能。
