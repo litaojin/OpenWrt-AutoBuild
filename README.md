@@ -40,3 +40,5 @@ ARM64通用镜像
 6.Luci-app-unblockmusic
 
 7.Luci-app-https-dns-proxy 其可在指定端口上运行指定服务商的DoH DNS服务，可以与代理配合使用
+
+8.Luci-theme-argon以及用于主题设置的Luci-app-argon-config [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon)
