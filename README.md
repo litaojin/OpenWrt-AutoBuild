@@ -22,7 +22,7 @@ FriendlyARM Nanopi-R2S
 
 ARM64通用镜像
 
-### 包含插件列表
+## 包含插件列表
 固件主要满足基本的上网/代理需求，暂不过多添加其他功能。
 
 1.Luci-app-ssr-plus [fw876/helloworld](https://github.com/fw876/helloworld)
