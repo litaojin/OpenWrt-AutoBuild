@@ -22,7 +22,7 @@ FriendlyARM Nanopi-R2S（with Docker）
 
 FriendlyARM Nanopi-R4S（with Docker)  *本人无R4S，使用者自行测试
 
-ARM64通用镜像
+ARMv8通用镜像
 
 ## 包含插件列表
 固件主要满足基本的上网/代理需求，暂不过多添加其他功能。
