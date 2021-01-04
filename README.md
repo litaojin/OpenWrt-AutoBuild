@@ -9,7 +9,7 @@
 
 本项目编译源码均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
-每周五CST 12:00云编译会自动开始，偶尔我个人有追新版本需求会手动启动Actions
+每周五CST 12:00云编译会自动开始，偶尔我个人有追新版本需求会手动启动Workflow
 
 默认LAN IP:192.168.2.1
 
