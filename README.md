@@ -1,5 +1,5 @@
 # Actions-OpenWrt
-编译个人自用的几款设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载
+编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载
 
 个人兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识
 
