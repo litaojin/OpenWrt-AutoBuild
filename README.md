@@ -18,7 +18,9 @@ ASUS RT-ACRH17
 
 G-Dock/P&W R619AC
 
-FriendlyARM Nanopi-R2S
+FriendlyARM Nanopi-R2S（with Docker）
+
+FriendlyARM Nanopi-R4S（with Docker)  *本人无R4S，使用者自行测试
 
 ARM64通用镜像
 
