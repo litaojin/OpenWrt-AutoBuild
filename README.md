@@ -18,9 +18,11 @@ ASUS RT-ACRH17
 
 G-Dock/P&W R619AC
 
+XIAOMI/REDMI AC2100
+
 FriendlyARM Nanopi-R2S（with Docker）
 
-FriendlyARM Nanopi-R4S（with Docker)  *本人无R4S，使用者自行测试
+FriendlyARM Nanopi-R4S（with Docker) 
 
 ARMv8通用镜像
 
