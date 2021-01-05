@@ -16,6 +16,8 @@
 默认用户名root，密码password
 
 ## 编译设备
+X86_64
+
 ASUS RT-ACRH17
 
 G-Dock/P&W R619AC
