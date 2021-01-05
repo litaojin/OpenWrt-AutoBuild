@@ -1,5 +1,5 @@
 # Actions-OpenWrt
-编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载
+编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载，对应的Workflow页面会有奶牛快传和WeTransfer的下载链接，但是都只有7天有效期。
 
 个人兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识，插件等问题请直接向源码维护者反映
 
@@ -9,7 +9,7 @@
 
 本项目编译源码均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
-为了不过多占用Actions资源，各设备的workflow会在每周四、周五的不同时段自动开始
+各设备的Workflow会在周五CST 8:00自动触发
 
 默认LAN IP:192.168.2.1
 
