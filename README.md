@@ -18,9 +18,9 @@
 ## 编译设备
 |   设备   |  Actions状态  |  对应Actions链接  |
 |  ----  |  ----  |  ----  |
-|  X86_64（含Luci-app-dockerman)  | [X86_64](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/X86_64-Openwrt?style=flat-square) |  [X86_64](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AX86_64-Openwrt)  |
+|  X86_64（含Luci-app-dockerman)  | ![X86_64](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/X86_64-Openwrt?style=flat-square) |  [X86_64](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AX86_64-Openwrt)  |
 |  ASUS RT-ACRH17  | ![ACRH17](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ACRH17-Openwrt?style=flat-square) |  [ASUS RT-ACRH17](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AACRH17-Openwrt)  |
-|  竞斗云/P&W R619AC  |  [GDock](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/GDock-OpenWrt?style=flat-square)  |  [竞斗云/R619AC](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AGDock-OpenWrt)  |
+|  竞斗云/P&W R619AC  |  ![GDock](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/GDock-OpenWrt?style=flat-square)  |  [竞斗云/R619AC](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AGDock-OpenWrt)  |
 |  XIAOMI AC2100  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/XIAOMI-AC2100-Openwrt?style=flat-square">  |  [XIAOMI-AC2100](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AXIAOMI-AC2100-Openwrt)  |
 |  Nanopi-R2S（含Luci-app-dockerman)  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/Nanopi-R2S-Openwrt?style=flat-square">  |  [Nanopi-R2S](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3ANanopi-R2S-Openwrt)  |
 |  REDMI AC2100  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/REDMI-AC2100-Openwrt?style=flat-square">  |  [RM2100](https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AREDMI-AC2100-Openwrt)  |
