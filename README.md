@@ -16,7 +16,7 @@
 默认用户名root，密码password
 
 ## 编译设备
-X86_64
+X86_64（含Luci-app-dockerman)
 
 ASUS RT-ACRH17
 
@@ -24,9 +24,9 @@ G-Dock/P&W R619AC
 
 XIAOMI/REDMI AC2100
 
-FriendlyARM Nanopi-R2S（with Docker）
+FriendlyARM Nanopi-R2S（含Luci-app-dockerman)
 
-FriendlyARM Nanopi-R4S（with Docker) 
+FriendlyARM Nanopi-R4S（含Luci-app-dockerman) 
 
 ARMv8通用镜像
 
