@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 # Actions-OpenWrt
 编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载，同时对应的Workflow页面会有**奶牛快传**和**WeTransfer**的下载链接（文件有效期7天）
 
