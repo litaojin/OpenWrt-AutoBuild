@@ -1,5 +1,5 @@
 # Actions-OpenWrt
-编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载，同时对应的Workflow页面会有奶牛快传和WeTransfer的下载链接，但是都只有7天有效期。
+编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载，同时对应的Workflow页面会有**奶牛快传**和**WeTransfer**的下载链接（文件有效期7天）
 
 **个人无偿兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识，插件等问题请直接向源码维护者反馈，简介后面贴了一些主要插件的仓库地址**
 
