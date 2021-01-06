@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 # Actions-OpenWrt
 编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)自行下载，同时对应的Workflow页面会有**奶牛快传**和**WeTransfer**的下载链接（文件有效期7天）
 
@@ -17,19 +16,16 @@
 默认用户名root，密码password
 
 ## 编译设备
-X86_64（含Luci-app-dockerman)
-
-ASUS RT-ACRH17
-
-G-Dock/P&W R619AC
-
-XIAOMI/REDMI AC2100
-
-FriendlyARM Nanopi-R2S（含Luci-app-dockerman)
-
-FriendlyARM Nanopi-R4S（含Luci-app-dockerman) 
-
-ARMv8通用镜像
+|   设备   |  Actions页面  |
+|  ----  |  ----  |
+|  X86_64（含Luci-app-dockerman)  | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/X86_64-Openwrt?style=flat-square"> |
+|  ASUS RT-ACRH17  | <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ACRH17-Openwrt?style=flat-square"> |
+|  G-Dock/P&W R619AC  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/GDock-OpenWrt?style=flat-square">  |
+|  XIAOMI AC2100  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/XIAOMI-AC2100-Openwrt?style=flat-square">  |
+|  Nanopi-R2S（含Luci-app-dockerman)  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/Nanopi-R2S-Openwrt?style=flat-square">  |
+|  REDMI AC2100  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/REDMI-AC2100-Openwrt?style=flat-square">  |
+|  Nanopi-R4S（含Luci-app-dockerman)  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/Nanopi-R4S-Openwrt?style=flat-square">  |
+|  ARMv8通用镜像  |  <img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ARMv8-Multiplatform?style=flat-square">  |
 
 ## 主要包含插件列表
 固件满足基本的上网/代理需求，暂不过多添加其他功能。
