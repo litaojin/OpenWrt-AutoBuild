@@ -11,7 +11,7 @@
 
 本项目编译源码均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
-各设备的Workflow会在周五CST 8:00自动触发
+各设备的Workflow会在每周五CST 8:00自动触发
 
 默认LAN IP:192.168.2.1
 
