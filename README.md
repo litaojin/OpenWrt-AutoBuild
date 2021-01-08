@@ -17,7 +17,7 @@
 默认用户名root，密码password
 
 ## 编译设备
-|   设备   |  Actions状态  |  对应Actions链接  |
+|   设备   |  编译状态  |  对应Actions链接  |
 |  ----  |  ----  |  ----  |
 |  X86_64（含Luci-app-dockerman)  | ![X86_64](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/X86_64-Openwrt?style=flat-square) |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AX86_64-Openwrt"><img src="https://img.shields.io/badge/Actions-x86__64-blueviolet?style=flat-square" alt="x86_64"></a>  |
 |  ASUS RT-ACRH17  | ![ACRH17](https://img.shields.io/github/workflow/status/stephensund/Actions-OpenWrt/ACRH17-Openwrt?style=flat-square) |  <a href="https://github.com/stephensund/Actions-OpenWrt/actions?query=workflow%3AACRH17-Openwrt"><img src="https://img.shields.io/badge/Actions-ACRH17-blueviolet?style=flat-square" alt="ACRH17"></a>  |
