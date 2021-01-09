@@ -8,7 +8,7 @@
 
 感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)维护的源码
 
-本项目除R4S使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)编译，其余设备均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
+本项目除**R4S**使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)编译，其余设备均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
 各设备的Workflow会在每周五CST 8:00自动触发
 
