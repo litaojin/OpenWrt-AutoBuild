@@ -1,14 +1,11 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=viewers)
 
-编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)或Release页面[Releases](https://github.com/stephensund/OpenWrt-AutoBuild/releases)自行下载，同时对应的Workflow页面和Release页面会有**奶牛快传**和**WeTransfer**的下载链接
+编译个人自用的设备以及部分热门设备的OpenWrt固件，有需要的朋友请移步actions页面[Github Actions](https://github.com/stephensund/Openwrt-Actions/actions)或Release页面[Releases](https://github.com/stephensund/OpenWrt-AutoBuild/releases)自行下载，同时对应的Workflow页面和Release页面会有**奶牛快传**和**WeTransfer**的下载链接    
+**个人无偿兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识，插件等问题请直接向源码维护者反馈，简介后面贴了一些主要插件的仓库地址**    
+感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本    
+感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)维护的源码 
 
-**个人无偿兴趣项目，不提供任何技术支持，请多动手上网搜寻相关知识，插件等问题请直接向源码维护者反馈，简介后面贴了一些主要插件的仓库地址**
-
-感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本
-
-感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)维护的源码
-
-本项目除**R4S**使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)编译，其余设备均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
+R2S、R4S以及x86设备编译了Docker相关组件，**R4S**由于用新版Docker有兼容性问题，故**R4S**使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)编译，其余设备均使用：[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
 各设备的Workflow会在每周五CST 8:00自动触发
 
