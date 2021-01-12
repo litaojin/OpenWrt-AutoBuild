@@ -6,8 +6,7 @@
 感谢[P3TERX/Actions-Openwrt](https://github.com/P3TERX/Actions-OpenWrt)提供的脚本    
 感谢Lean [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)和CTCGFW's Team [project-openwrt/openwrt](https://github.com/project-openwrt/openwrt)
 
-**R2S**、**R4S**以及**x86**设备编译了Docker相关组件，**R4S**用新版Docker有兼容性问题，故**R4S**使用[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)编译       
-除**R4S**外均使用[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
+源码均使用[project-openwrt/openwrt](https://github.com/project-openwrt/openwrt) openwrt-18.06-k5.4分支
 
 各设备的Workflow会在每周五CST 8:00自动触发
 
